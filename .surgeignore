@@ -1,0 +1,7 @@
+node_modules/
+css/
+scripts/
+gulpfile.js
+package.json
+.DS_Store
+.gitignore
